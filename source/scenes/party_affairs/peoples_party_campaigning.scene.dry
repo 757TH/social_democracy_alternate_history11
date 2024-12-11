@@ -26,6 +26,7 @@ title: Campaign in rural areas.
 choose-if: rural_policy > 0
 unavailable-subtitle: We have not enacted any rural policies yet.
 on-arrival: rural_spd += 1;
+
 As a people's party, we represent farmers and rural workers as well, and they are becoming receptive to our messages.
 
 @campaign_unemployed
